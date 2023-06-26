@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Tatiana, I have MS in STEM, welcome to my GitHub page!
+My name is Tatiana, I have MS in STEM and 10+ experience how to bring business and tech together, welcome to my GitHub page!
 
 On this page, I mainly save my code for studies and pet-project tasks.
 
