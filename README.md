@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+My name is Tatiana, I have MS in STEM, welcome to my GitHub page!
+
+On this page, I mainly save my code for studies and pet-project tasks.
+
 - 🌱 I’m currently learning Data Science at [Y-Data](https://ydata.co.il/)
 - 💬 Ask me about how to achieve your business goals!
 -  📫 You could reach me via [LinkedIn](https://www.linkedin.com/in/tbarladyan/)
